@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /c/Users/Lenovo/OneDrive/Desktop/Currency-Converter/.htpassword
+Require valid-user
